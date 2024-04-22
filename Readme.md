@@ -1,0 +1,1 @@
+<p>Hides the Dragonflight Vigor Wings UI element inside of Arena</p>
